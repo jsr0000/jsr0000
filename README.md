@@ -18,3 +18,5 @@
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Snake animation](https://github.com/jsr0000/jsr0000/blob/output/github-contribution-grid-snake.svg)
