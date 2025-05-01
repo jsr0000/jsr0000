@@ -3,6 +3,8 @@
 - Decentralized Finance (DeFi): The Future of Finance - [Duke University, The Fuqua School of Business](https://www.fuqua.duke.edu/)
 
 Competitive Audits with [CodeHawks](https://codehawks.cyfrin.io/)
+
+
 Builder with [BuidlGuidl](https://buidlguidl.com/)
 
 ## 🌐 Socials:
