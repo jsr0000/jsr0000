@@ -1,4 +1,3 @@
-- Solidity Smart Contract Developer Certification (SSCD+) - [Cyfrin](https://www.cyfrin.io/)
 - Chainlink Bootcamp 2024 - [Chainlink Labs](https://chainlinklabs.com/)
 - Decentralized Finance (DeFi): The Future of Finance - [Duke University, The Fuqua School of Business](https://www.fuqua.duke.edu/)
 
