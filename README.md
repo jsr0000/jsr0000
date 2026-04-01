@@ -1,4 +1,3 @@
-Blockchain Engineer @ [Extropy.io](https://www.extropy.io/)
 - Smart Contract Developer and Auditor
 - Security Researcher
 
